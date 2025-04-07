@@ -3,6 +3,8 @@ from typing import Generator
 from groq import Groq
 import os
 
+load_dotenv()
+
 st.set_page_config(page_icon="💬", layout="wide",
                    page_title="Groq Goes Brrrrrrrr...")
 
