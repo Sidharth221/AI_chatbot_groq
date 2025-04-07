@@ -5,7 +5,7 @@ import os
 
 
 st.set_page_config(page_icon="💬", layout="wide",
-                   page_title="Groq Goes Brrrrrrrr...")
+                   page_title="Groq")
 
 
 def icon(emoji: str):
